@@ -1,7 +1,8 @@
-#Intro to AI
+# Intro to AI
 
-#Problem 1:Sliding Tile Puzzle
-####State representation:
+# Problem 1:Sliding Tile Puzzle
+#### State representation:
 
-Problem 2: Vampires and Werewolves.
+# Problem 2: Vampires and Werewolves.
+#### State representation:
 
